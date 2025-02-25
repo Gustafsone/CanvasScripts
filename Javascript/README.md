@@ -12,3 +12,8 @@ This script was developed with the assistance of AI.
 The Manage Question Banks Button moves the Manage Question Banks button (for Classic Quizzes) from the kabob menu on the Quizzes page next to the Add New Quiz button. It also removes the option from the kabob menu. This helps improve the visibility of the button for faculty who may have forgotten where the question banks are and makes it clear that question banks are an important part of Classic Quizzes
 
 This script was developed with the assistance of AI.
+
+# Item Banks Button (New Quizzes)
+The Item Banks Button adds a new button next to the Manage Question Banks button on the Quizzes page. This button provides direct access to the Item Banks for New Quizzes via the external tool. It helps faculty access New Quizzes item banks more easily without having to navigate through multiple menus. The script requires configuring the correct external tool ID for your institution.
+
+This script was developed with the assistance of AI.
