@@ -1,0 +1,60 @@
+/*********************************************************************/
+/***** All Courses Page - Tabbed Navigation          ****************/
+/*********************************************************************/
+/* Namespace: mbu (Missouri Baptist University) */
+
+/* Hide original h2 headings - more specific targeting */
+body.courses #content > h2.ic-Table-page-header {
+    display: none;
+}
+
+/* Tab container styling */
+.mbu-course-tabs-container {
+    display: flex;
+    border-bottom: 2px solid #C7CDD1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Individual tab button styling */
+.mbu-course-tab-button {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 600;
+    color: #2D3B45;
+    margin-bottom: -2px;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s ease-in-out;
+}
+
+.mbu-course-tab-button:hover {
+    background-color: #F5F5F5;
+    color: #000;
+}
+
+/* Active tab button styling */
+.mbu-course-tab-button.active {
+    color: #008EE2;
+    border-bottom: 2px solid #008EE2;
+}
+
+/* Content panels for each tab */
+.mbu-course-tab-content {
+    display: none;
+}
+
+.mbu-course-tab-content.active {
+    display: block;
+}
+
+/* Titles inside tab content */
+.mbu-course-tab-content h2 {
+    display: block !important;
+    font-size: 1.5rem;
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
