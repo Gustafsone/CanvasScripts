@@ -7,7 +7,7 @@ This script was developed with the assistance of AI.
 
 
 # Item Banks Button (New Quizzes)
-The Item Banks Button adds a new button next to the Manage Question Banks button on the Quizzes page. This button provides direct access to the Item Banks for New Quizzes via the external tool. It helps faculty access New Quizzes item banks more easily without having to navigate through multiple menus. The script requires configuring the correct external tool ID for your institution.
+The Item Banks Button adds a new button next to the Manage Question Banks button on the Quizzes page. This button provides direct access to the Item Banks for New Quizzes via the external tool. It helps faculty access New Quizzes item banks more easily without having to navigate through multiple menus. **The script requires configuring the correct external tool ID for your institution.**
 
 This script was developed with the assistance of AI.
 
